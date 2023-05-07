@@ -8,3 +8,4 @@ First, I removed null and duplicate values. I cleaned the data of errors (extrem
 ## ARIMA
 ## LSTM
 ## Facebook Prophet
+## Result
