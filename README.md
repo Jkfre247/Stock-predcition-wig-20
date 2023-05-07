@@ -1,6 +1,7 @@
 
 # Stock-predcition-wig-20
 # In Progress
+ARIMA, LSTM, Facebook Prophet, tableau/powerbi visualisation for clarity
 ## Introduction
 The objective of this project is to gain practical experience with prediction algorithms. I apologize in advance, as there may be some mistakes in the implementation of the algorithms. I have chosen local stocks from the WIG20 (the 20 largest companies in Poland) to learn new algorithms for predicting prices. Data was collected from Yahoo Finance.
 ## Data Cleaning and Data visualisation
